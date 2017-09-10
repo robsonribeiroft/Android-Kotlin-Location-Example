@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationExample</string>
+    <string name="get_location">Get Location</string>
+    <string name="press_the_button">Press the button</string>
+</resources>
